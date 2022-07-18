@@ -6,4 +6,4 @@ clusterPatches:
 - target:
      kind: Cluster
      name: cluster-002
-  kustomizePatch: ./kustomize/
+  kustomizePatch: ./kustomize2/
